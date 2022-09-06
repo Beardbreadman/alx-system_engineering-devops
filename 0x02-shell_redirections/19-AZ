@@ -1,0 +1,2 @@
+#!/bin/bah
+tr AZ | tr c e
