@@ -1,2 +1,2 @@
-#!/bin/bah
-tr AZ | tr c e
+#!/bin/bash
+tr A c | tr Z e
