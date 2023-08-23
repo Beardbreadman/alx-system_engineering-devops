@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# server-01 login
+# server-01 login commands
 
-
+#Paths to SSH
 eval $("ssh-agent")
 
 ssh-add ~/.ssh/school
 
-
+#Username and IP Address
 ssh ubuntu@18.234.253.2
